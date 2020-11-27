@@ -10,6 +10,6 @@ Evidently, side effects are evil.
 
 i++; // very naughty
 
-Evidently I should have been using state monads ... Who knew? 
+All this time, I should have been using state monads ... Who knew? 
 
 [learn-haskell]: http://learnyouahaskell.com
