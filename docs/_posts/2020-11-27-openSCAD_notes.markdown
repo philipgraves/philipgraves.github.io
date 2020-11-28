@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notes for OpenSCAD & Bogl"
+title:  "Notes for OpenSCAD & BoGL"
 date:   2020-11-26 14:48:55 -0800
 categories: haskell
 ---
