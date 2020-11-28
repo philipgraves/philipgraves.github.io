@@ -8,7 +8,7 @@ There are so many functional languages ...
 
 OpenSCAD combines programming and CAD, to simultaneously feed my love of logic and geometry. It uses a functional language. I added [notes][openscad-notes], which is my personal cheat sheet.
 
-BoGL is a board game language taught to beginning computer science students at Oregon State. It is a functional language, much closer to Haskell. I added [notes][boggle-notes] for this language too.
+BoGL is a board game language taught to beginning computer science students at Oregon State. It is a functional language, much closer to Haskell. I added [notes][bogl-notes] for this language too.
 
 These are introductory functional languages, that should ease my inevitable assimilation by the Haskell Borg!
 
